@@ -35,5 +35,8 @@
     "redux": "^3.0.4",
     "redux-form": "^4.2.2",
     "redux-promise": "^0.5.1"
-  }
+  },
+  "engines": {
+  "node": "5.5.0"
+}
 }
